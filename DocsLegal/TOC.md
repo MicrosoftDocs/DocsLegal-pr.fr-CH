@@ -46,4 +46,4 @@
 ## [Valencien](software-license-terms-val.md)
 ## [Vietnamien](software-license-terms-vi-vn.md)
 
--->
+<-->
