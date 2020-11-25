@@ -2,7 +2,7 @@
 # [Règlement général sur la protection des données (RGPD)](gdpr.md)
 # [Conditions de licence des logiciels Azure](/legal/information-protection/software-license-terms)
 # [Conditions d'Utilisation](/legal/termsofuse)
-<!-->
+<!--
 ## [Basque](software-license-terms-eu-es.md)
 ## [Bulgare](software-license-terms-bg-bg.md)
 ## [Catalan](software-license-terms-ca-es.md)
@@ -45,5 +45,4 @@
 ## [Ukrainien](software-license-terms-uk-ua.md)
 ## [Valencien](software-license-terms-val.md)
 ## [Vietnamien](software-license-terms-vi-vn.md)
-
-<-->
+-->
