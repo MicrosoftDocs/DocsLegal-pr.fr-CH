@@ -2,7 +2,7 @@
 # required metadata
 
 title: Code de conduite de Learn TV
-description: Code of Conduct for Microsoft Learn TV
+description: Code de conduite de Learn TV
 ms.topic: article
 layout: ContentPage
 ms.author: brstegge
