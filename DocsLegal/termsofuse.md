@@ -11,11 +11,11 @@ ms.technology: ''
 ms.assetid: 674fcfe7-14bb-4fe1-8a25-cbe6eca5dcd1
 layout: ContentPage
 ms.openlocfilehash: 904b079bf9580699105e1f73836cb8f1127c101f
-ms.sourcegitcommit: 3cfbabd1cd8dac0925815ab42ae1640787749fb7
+ms.sourcegitcommit: 608034089d1ea70317f64b4562eee1614c447d8f
 ms.translationtype: HT
 ms.contentlocale: fr-CH
-ms.lasthandoff: 08/14/2021
-ms.locfileid: "122177367"
+ms.lasthandoff: 04/01/2022
+ms.locfileid: "141347453"
 ---
 # <a name="docsmicrosoftcom---terms-of-use"></a>docs.microsoft.com - Conditions d’utilisation
 
@@ -49,7 +49,7 @@ SANS LIMITER LA PORTÉE DE CE QUI PRÉCÈDE, LA COPIE OU LA REPRODUCTION DES LOG
 
 LES LOGICIELS SONT GARANTIS, LE CAS ÉCHÉANT, UNIQUEMENT CONFORMÉMENT AUX CONDITIONS DU CONTRAT DE LICENCE. SAUF STIPULATION CONTRAIRE DANS LE CONTRAT DE LICENCE, MICROSOFT CORPORATION EXCLUT PAR LES PRÉSENTES TOUTE GARANTIE EN CE QUI CONCERNE LES LOGICIELS, Y COMPRIS TOUTE GARANTIE EXPRESSE, IMPLICITE OU LÉGALE DE QUALITÉ MARCHANDE, D’ADÉQUATION À UN USAGE PARTICULIER, DE PROPRIÉTÉ ET D’ABSENCE DE CONTREFAÇON. À VOTRE CONVENANCE, MICROSOFT PEUT VOUS PROPOSER DANS LE CADRE DES SERVICES OU DES LOGICIELS, DES PRODUITS, DES OUTILS ET DES UTILITAIRES DISPONIBLES À L’UTILISATION ET/OU AU TÉLÉCHARGEMENT. MICROSOFT NE FOURNIT AUCUNE GARANTIE EN CE QUI CONCERNE LA PRÉCISION DES RÉSULTATS OU DES DONNÉES DÉRIVÉS DE LADITE UTILISATION DE TELS OUTILS ET UTILITAIRES. VOUS ÊTES TENU DE RESPECTER LES DROITS DE PROPRIÉTÉ INTELLECTUELLE DES TIERS LORS DE L’UTILISATION DES OUTILS ET UTILITAIRES MIS À VOTRE DISPOSITION DANS LE CADRE DES SERVICES OU DANS LES LOGICIELS.
 
-MENTION «DROITS RESTREINTS». Tout Logiciel téléchargé à partir des Services pour le compte ou au nom des États-Unis d’Amérique, de son administration et/ou de ses bureaux (le «Gouvernement américain») est fourni avec des Droits Restreints. L’utilisation, la duplication ou la divulgation par le Gouvernement américain est soumise, selon les cas, aux restrictions prévues à la sous-section (c)(1)(ii) de la clause Rights in Technical Data and Computer Software dans DFARS 252.227-7013 ou aux sous-sections (c)(1) et (2) de la clause Commercial Computer Software - Restricted Rights dans 48 CFR 52.227-19. Le fabricant est Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399.
+MENTION «DROITS RESTREINTS». Tout Logiciel téléchargé à partir des Services pour le compte ou au nom des États-Unis d’Amérique, de son administration et/ou de ses bureaux (le «Gouvernement américain») est fourni avec des Droits Restreints. L’utilisation, la duplication ou la divulgation par le Gouvernement américain Le gouvernement est sujet aux restrictions prévues à la sous-section (c)(1)(ii) de la clause Rights in Technical Data and Computer Software dans DFARS 252.227-7013 ou aux sous-sections (c)(1) et (2) de la clause Commercial Computer Software - Restricted Rights dans 48 CFR 52.227-19. Le fabricant est Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399.
 
 ## <a name="notice-specific-to-documents-available-on-this-website"></a>Avertissement spécifique aux documents disponibles sur ce site Web
 

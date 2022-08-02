@@ -5,17 +5,17 @@ ms.topic: article
 ms.prod: legal
 layout: ContentPage
 ms.openlocfilehash: 91a5f1a3c93dbf5e50ab9842e63747fc9e443fe3
-ms.sourcegitcommit: 92176e791cecbf38ca4118125466148737f3e45f
+ms.sourcegitcommit: 608034089d1ea70317f64b4562eee1614c447d8f
 ms.translationtype: HT
 ms.contentlocale: fr-CH
-ms.lasthandoff: 09/29/2021
-ms.locfileid: "129189143"
+ms.lasthandoff: 04/01/2022
+ms.locfileid: "141347348"
 ---
 # <a name="microsofts-gdpr-commitments-to-customers-of-our-generally-available-enterprise-software-products"></a>Engagements de Microsoft dans le cadre du RGPD envers les Clients de nos Logiciels Entreprise généralement disponibles
 
 **Introduction**
 
-Avec son Règlement Général sur la Protection des Données (RGPD), l’Union européenne impose un changement important de paradigme mondial en matière de droits au respect de la vie privée, de sécurité de l’information et de conformité. Pour Microsoft, la protection des données personnelles est un droit fondamental et le RGPD constitue une étape importante pour la protection et l’exercice des droits des individus à la protection des données personnelles.     
+Le règlement général sur la protection des données (General Data Protection Regulation, GDPR) de l’Union européenne établit une nouvelle norme mondiale en matière de droit à la vie privée, de sécurité des informations et de conformité. Pour Microsoft, la protection des données personnelles est un droit fondamental et le RGPD constitue une étape importante pour la protection et l’exercice des droits des individus à la protection des données personnelles.     
 
 Microsoft s’est engagée à respecter le RGPD et à fournir à ses clients toute une gamme de produits, de fonctionnalités, de documents et de ressources pour les aider à respecter leurs propres obligations de conformité dans le cadre du RGPD. Les engagements contractuels de Microsoft vis-à-vis des clients concernant les données à caractère personnel collectées à partir des logiciels d’entreprise sont décrits ci-dessous. (Pour les programmes Microsoft Commercial Licensing concédés sous licence logicielle, reportez-vous directement à l'annexe sur la protection des données en matière de produits et de services Microsoft à l'adresse suivante: http://aka.ms/dpa)
 
