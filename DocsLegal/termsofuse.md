@@ -1,31 +1,31 @@
 ---
 title: Conditions d’utilisation
-description: Conditions d’utilisation de la documentation sur docs.microsoft.com.
+description: Conditions d’utilisation de la documentation sur learn.microsoft.com.
 keywords: ''
 author: ''
 manager: ''
-ms.date: 09/19/2018
+ms.date: 09/17/2022
 ms.topic: article
 ms.prod: legal
 ms.technology: ''
 ms.assetid: 674fcfe7-14bb-4fe1-8a25-cbe6eca5dcd1
 layout: ContentPage
-ms.openlocfilehash: 904b079bf9580699105e1f73836cb8f1127c101f
-ms.sourcegitcommit: 608034089d1ea70317f64b4562eee1614c447d8f
+ms.openlocfilehash: e3775ca714120078c7b616711a00ee5ca2959b22
+ms.sourcegitcommit: 4992204ccdcaf82cb72bf4aafe4526dbbaff2564
 ms.translationtype: HT
 ms.contentlocale: fr-CH
-ms.lasthandoff: 04/01/2022
-ms.locfileid: "141347453"
+ms.lasthandoff: 09/27/2022
+ms.locfileid: "147979721"
 ---
-# <a name="docsmicrosoftcom---terms-of-use"></a>docs.microsoft.com - Conditions d’utilisation
+# <a name="learnmicrosoftcom---terms-of-use"></a>learn.microsoft.com - Conditions d’utilisation
 
 ## <a name="acceptance-of-terms"></a>Acceptation des conditions
 
-Les conditions d’utilisation suivantes (les «Conditions d’Utilisation») s’appliquent à votre utilisation du site Web Microsoft Docs ([https://docs.microsoft.com](https://docs.microsoft.com)), de Tech Profile ([https://techprofile.microsoft.com](https://techprofile.microsoft.com)) et de tous les services associés. Microsoft se réserve le droit de modifier les Conditions d’Utilisation à tout moment, sans notification. La dernière version des Conditions d’Utilisation peut être consultée en cliquant sur le lien hypertexte «Conditions d’Utilisation» situé en bas de nos pages Web.
+Les présentes «Conditions d’utilisation» s’appliquent à votre utilisation du site web Microsoft Learn ([https://learn.microsoft.com](https://learn.microsoft.com)), de Tech Profile et de tous les services associés. Microsoft se réserve le droit de modifier les Conditions d’Utilisation à tout moment, sans notification. La dernière version des Conditions d’Utilisation peut être consultée en cliquant sur le lien hypertexte «Conditions d’Utilisation» situé en bas de nos pages Web.
 
 ## <a name="description-of-service"></a>Description des Services
 
-Au moyen du site Web Microsoft Docs, de Tech Profile et de tous les services associés, Microsoft vous fournit l’accès à de nombreuses ressources, dont des didacticiels d’apprentissage interactif, des documents, des vidéos, des outils de développement, des zones de téléchargement, des forums de communication et des informations sur les produits (collectivement, les «Services»). Les Services, comprenant les mises à jour, les améliorations, les nouvelles fonctionnalités et/ou l’ajout de toute nouvelle propriété Web, sont régis par les Conditions d’Utilisation.
+Au moyen du site web Microsoft Learn, de Tech Profile et de tous les services associés, Microsoft vous fournit l’accès à de nombreuses ressources, dont des didacticiels de formation interactifs, des documents, des vidéos, des outils de développement, des zones de téléchargement, des forums de communication et des informations sur les produits (collectivement, les «Services»). Les Services, comprenant les mises à jour, les améliorations, les nouvelles fonctionnalités et/ou l’ajout de toute nouvelle propriété Web, sont régis par les Conditions d’Utilisation.
 
 ## <a name="personal-and-non-commercial-use-limitation"></a>Limitation à une utilisation personnelle et non commerciale
 
@@ -35,7 +35,7 @@ Sauf disposition contraire, les Services sont destinés à une utilisation perso
 
 La protection de vos données personnelles est importante à nos yeux. Veuillez lire la [Déclaration de Confidentialité de Microsoft](https://privacy.microsoft.com/privacystatement) (la «Déclaration de Confidentialité») qui décrit les types de données que nous collectons auprès de vous et de vos dispositifs, le mode d’utilisation de ces Données et les bases juridiques à notre disposition pour traiter ces Données. La Déclaration de confidentialité décrit aussi comment Microsoft utilise les Eléments Communiqués (définis dans les présentes), les commentaires, les évaluations ou les commentaires sur des Services, communications, fichiers, photos, documents, supports audio, œuvres numériques, streaming en direct, vidéos et tout autre contenu que vous chargez, stockez, diffusez ou partagez ou via les Services, (collectivement, «Votre Contenu»). Lorsque le traitement repose sur le consentement et dans la mesure permise par la réglementation, en acceptant les présentes Conditions, vous autorisez Microsoft à collecter, utiliser et divulguer Votre Contenu et vos Données, comme décrit dans la Déclaration de Confidentialité. Dans certains cas, nous fournirons un avis distinct et solliciterons votre consentement, comme mentionné dans la Déclaration de Confidentialité.
 
-**Informations utilisateur et contenu**: Les informations utilisateur que vous fournissez (y compris votre nom d’utilisateur, nom d’affichage, avatar, biographie, intitulé de votre poste et organisation, et vos exploits d’utilisateur) peuvent être consultées par d’autres. Il vous suffit de fournir un nom d’utilisateur et un nom d’affichage pour utiliser Tech Profile. Tous les autres champs sont facultatifs. Vous pouvez mettre à jour votre nom d’utilisateur et votre nom d’affichage à tout moment. Microsoft peut également recueillir et afficher publiquement la date que vous avez enregistrée à l’aide de Tech Profile, et votre affiliation à Microsoft.
+**Contenu et informations utilisateur publics**: Les informations utilisateur que vous fournissez (y compris votre nom d’utilisateur, nom d’affichage, avatar, biographie, intitulé de votre poste et organisation, et vos exploits d’utilisateur) peuvent être consultées par d’autres. Il vous suffit de fournir un nom d’utilisateur et un nom d’affichage pour utiliser Tech Profile. Tous les autres champs sont facultatifs. Vous pouvez mettre à jour votre nom d’utilisateur et votre nom d’affichage à tout moment. Microsoft peut également recueillir et afficher publiquement la date que vous avez enregistrée à l’aide de Tech Profile, et votre affiliation à Microsoft.
 
 Les contenus que vous affichez publiquement sont également visibles par d’autres. Vous pouvez supprimer certains types de contenu après les avoir publiés. Ce n’est pas le cas pour tous les types de contenu, une fois que vous les avez publiés publiquement.
 
@@ -72,15 +72,15 @@ Vous pourriez avoir besoin d’un compte Microsoft, d’un compte Azure Active D
 
 **Compte Microsoft**. Votre compte Microsoft vous permet de vous connecter aux produits, sites Web et services fournis par Microsoft et certains partenaires Microsoft. Vous pouvez créer un compte Microsoft en vous inscrivant [en ligne](https://signup.live.com/). Les comptes Microsoft sont soumis au [Contrat de Services Microsoft](https://www.microsoft.com/servicesagreement/).
 
-**Compte Azure Active Directory.**. Vous avez peut-être un compte avec Microsoft via l’organisation à laquelle vous appartenez. Veuillez contacter l’administrateur de votre organisation pour plus d’informations sur ce compte.
+**Compte Azure Active Directory**. Vous avez peut-être un compte avec Microsoft via l’organisation à laquelle vous appartenez. Veuillez contacter l’administrateur de votre organisation pour plus d’informations sur ce compte.
 
-**Compte Tech Profile**. Votre compte Tech Profile vous permet de vous connecter au site Web Microsoft Docs et d’utiliser des services associés, y compris le libre accès aux ressources d’apprentissage, réalisations de déblocage, évaluations, commentaires, contenus publiés et par le biais d’autres services interactifs. Vous pouvez créer un compte Tech Profile en créant un nom d’utilisateur dans [Tech Profile](https://techprofile.microsoft.com/) après votre connexion avec un compte Microsoft ou Azure Active Directory.
+**Compte Tech Profile**. Votre compte Tech Profile vous permet de vous connecter au site web Microsoft Learn et d’utiliser des services associés, y compris le libre accès aux ressources de formation, réalisations de déblocage, évaluations, commentaires, contenus publiés et par le biais d’autres services interactifs. Vous pouvez créer un compte Tech Profile en créant un nom d’utilisateur dans Tech Profile après votre connexion avec un compte Microsoft ou Azure Active Directory.
 
 Vous vous engagez à n’utiliser aucune information erronée, inexacte ou trompeuse lors de l’enregistrement de votre compte Tech Profile. Il vous incombe de garantir la confidentialité de votre mot de passe et de votre compte. De plus, vous êtes entièrement responsable de toutes les activités exécutées avec votre compte. Vous acceptez par les présentes d’informer immédiatement Microsoft de toute utilisation non autorisée de votre compte ou de toute autre atteinte à la sécurité. Microsoft ne peut être tenu responsable d’aucune perte que vous pourriez subir à la suite d’une utilisation par un tiers de votre mot de passe ou compte, et ce, que vous en ayez ou non connaissance. En revanche, vous pourriez être tenu responsable des pertes subies par Microsoft ou un tiers découlant d’une utilisation de votre compte ou mot de passe par une tierce personne. Vous n’êtes en aucun cas autorisé à utiliser le compte d’une tierce personne sans l’autorisation du titulaire dudit compte.
 
 Si vous créez un compte Tech Profile au nom d’une entité, telle que votre entreprise ou votre employeur, vous déclarez avoir l’autorité légale nécessaire pour conclure le présent contrat pour le compte de ladite entité. Vous n’êtes pas autorisé à transférer vos identifiants de compte Tech Profile à un autre utilisateur ou à une autre entité. Afin de protéger votre compte, veillez à ne pas révéler les informations confidentielles de votre compte. Vous êtes responsable de toutes les activités effectuées avec votre compte Tech Profile.
 
-Vous pouvez fermer votre compte Tech Profile en accédant aux paramètres de votre [compte Tech Profile ici](https://techprofile.microsoft.com/edit/).
+Vous pouvez maintenant fermer votre compte Tech Profile en accédant à vos paramètres de compte Tech Profile.
 
 ## <a name="no-unlawful-or-prohibited-use"></a>Utilisation illégale ou interdite
 
