@@ -1,23 +1,23 @@
 ---
 title: Règlement général sur la protection des données (RGPD)
-description: GDPR docs.microsoft.com.
+description: RGPD learn.microsoft.com.
 ms.topic: article
 ms.prod: legal
 layout: ContentPage
-ms.openlocfilehash: 91a5f1a3c93dbf5e50ab9842e63747fc9e443fe3
-ms.sourcegitcommit: 608034089d1ea70317f64b4562eee1614c447d8f
+ms.openlocfilehash: 1fd23b342c8822a527df59cf1785eb7cb1d0d9a4
+ms.sourcegitcommit: 4992204ccdcaf82cb72bf4aafe4526dbbaff2564
 ms.translationtype: HT
 ms.contentlocale: fr-CH
-ms.lasthandoff: 04/01/2022
-ms.locfileid: "141347348"
+ms.lasthandoff: 09/27/2022
+ms.locfileid: "147979449"
 ---
 # <a name="microsofts-gdpr-commitments-to-customers-of-our-generally-available-enterprise-software-products"></a>Engagements de Microsoft dans le cadre du RGPD envers les Clients de nos Logiciels Entreprise généralement disponibles
 
 **Introduction**
 
-Le règlement général sur la protection des données (General Data Protection Regulation, GDPR) de l’Union européenne établit une nouvelle norme mondiale en matière de droit à la vie privée, de sécurité des informations et de conformité. Pour Microsoft, la protection des données personnelles est un droit fondamental et le RGPD constitue une étape importante pour la protection et l’exercice des droits des individus à la protection des données personnelles.     
+Le Règlement général sur la protection des données (General Data Protection Regulation, GDPR) de l’Union européenne établit une nouvelle norme mondiale en matière de droit à la vie privée, de sécurité des informations et de conformité. Pour Microsoft, la protection des données personnelles est un droit fondamental et le RGPD constitue une étape importante pour la protection et l’exercice des droits des individus à la protection des données personnelles.     
 
-Microsoft s’est engagée à respecter le RGPD et à fournir à ses clients toute une gamme de produits, de fonctionnalités, de documents et de ressources pour les aider à respecter leurs propres obligations de conformité dans le cadre du RGPD. Les engagements contractuels de Microsoft vis-à-vis des clients concernant les données à caractère personnel collectées à partir des logiciels d’entreprise sont décrits ci-dessous. (Pour les programmes Microsoft Commercial Licensing concédés sous licence logicielle, reportez-vous directement à l'annexe sur la protection des données en matière de produits et de services Microsoft à l'adresse suivante: http://aka.ms/dpa)
+Microsoft s’est engagée à respecter le RGPD et à fournir à ses clients toute une gamme de produits, de fonctionnalités, de documents et de ressources pour les aider à respecter leurs propres obligations de conformité dans le cadre du RGPD. Les engagements contractuels de Microsoft vis-à-vis des clients concernant les données à caractère personnel collectées à partir des logiciels d’entreprise sont décrits ci-dessous. (Pour les programmes Microsoft Commercial Licensing concédés sous licence logicielle, reportez-vous directement à l'annexe sur la protection des données en matière de produits et de services Microsoft à l'adresse suivante: http://aka.ms/dpa) )
 
 **Microsoft a-t-elle pris des engagements à l’égard des clients s’agissant du RGPD ?**
 

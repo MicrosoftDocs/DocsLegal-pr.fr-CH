@@ -6,19 +6,19 @@ ms.author: jken
 ms.prod: legal
 ms.topic: article
 ms.date: 11/25/2020
-ms.openlocfilehash: fb025dc184b95fd2e4ab9331d36fce7cd5672471
-ms.sourcegitcommit: 608034089d1ea70317f64b4562eee1614c447d8f
+ms.openlocfilehash: 7661b9449c2cfb1dc69231499c5d89f0f78ff96e
+ms.sourcegitcommit: 4992204ccdcaf82cb72bf4aafe4526dbbaff2564
 ms.translationtype: HT
 ms.contentlocale: fr-CH
-ms.lasthandoff: 04/01/2022
-ms.locfileid: "141347273"
+ms.lasthandoff: 09/27/2022
+ms.locfileid: "147979653"
 ---
-# <a name="microsoft-legal-resources-on-docsmicrosoftcom"></a>Ressources juridiques de Microsoft sur Docs.microsoft.com
+# <a name="microsoft-legal-resources-on-learnmicrosoftcom"></a>Ressources juridiques de Microsoft sur learn.microsoft.com
 
 Veuillez trouver ci-dessous les liens vers les ressources juridiques.
 
 - [Règlement général sur la protection des données (RGPD)](/legal/gdpr)
 - [Conditions de licence des logiciels](information-protection/software-license-terms.md)
-- [Conditions d'Utilisation](/legal/termsofuse)
-- [Code de conduite de Learn TV](/legal/learntv/codeofconduct)
-- [Conditions du partage des données d'apprentissage](/legal/learn/reporting/terms)
+- [Conditions d’utilisation](/legal/termsofuse)
+- [Code de conduite Learn TV](/legal/learntv/codeofconduct)
+- [Conditions de partage des données Learn](/legal/learn/reporting/terms)
