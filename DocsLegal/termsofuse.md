@@ -10,12 +10,12 @@ ms.prod: legal
 ms.technology: ''
 ms.assetid: 674fcfe7-14bb-4fe1-8a25-cbe6eca5dcd1
 layout: ContentPage
-ms.openlocfilehash: e3775ca714120078c7b616711a00ee5ca2959b22
-ms.sourcegitcommit: 4992204ccdcaf82cb72bf4aafe4526dbbaff2564
+ms.openlocfilehash: f20755cc9856e52068eb3189dbd12ebf90e4761c
+ms.sourcegitcommit: cf1db1b6138ad34406183a2735eab11b3293b130
 ms.translationtype: HT
 ms.contentlocale: fr-CH
-ms.lasthandoff: 09/27/2022
-ms.locfileid: "147979721"
+ms.lasthandoff: 10/21/2022
+ms.locfileid: "148103192"
 ---
 # <a name="learnmicrosoftcom---terms-of-use"></a>learn.microsoft.com - Conditions d’utilisation
 
@@ -70,7 +70,7 @@ MICROSOFT ET/OU SES FOURNISSEURS NE POURRONT EN AUCUN CAS ÊTRE TENUS RESPONSABL
 
 Vous pourriez avoir besoin d’un compte Microsoft, d’un compte Azure Active Directory ou d’un compte Tech Profile pour accéder à certains des Services.
 
-**Compte Microsoft**. Votre compte Microsoft vous permet de vous connecter aux produits, sites Web et services fournis par Microsoft et certains partenaires Microsoft. Vous pouvez créer un compte Microsoft en vous inscrivant [en ligne](https://signup.live.com/). Les comptes Microsoft sont soumis au [Contrat de Services Microsoft](https://www.microsoft.com/servicesagreement/).
+**Compte Microsoft**. Votre compte Microsoft vous permet de vous connecter aux produits, sites Web et services fournis par Microsoft et certains partenaires Microsoft. Pour [créer un compte Microsoft, inscrivez-vous en ligne](https://signup.live.com/). Les comptes Microsoft sont soumis au [Contrat de Services Microsoft](https://www.microsoft.com/servicesagreement/).
 
 **Compte Azure Active Directory**. Vous avez peut-être un compte avec Microsoft via l’organisation à laquelle vous appartenez. Veuillez contacter l’administrateur de votre organisation pour plus d’informations sur ce compte.
 
