@@ -4,13 +4,13 @@ description: 'Informations concernant les Conditions d’utilisation de Microsof
 author: GrantMeStrength
 ms.author: jken
 ms.prod: legal
-ms.topic: article
+ms.topic: legal
 ms.date: 11/25/2020
 ---
 
 
 
-# <a name="microsoft-legal-resources-on-learnmicrosoftcom"></a>Ressources juridiques de Microsoft sur learn.microsoft.com
+# Ressources juridiques de Microsoft sur learn.microsoft.com
 
 Veuillez trouver ci-dessous les liens vers les ressources juridiques.
 
